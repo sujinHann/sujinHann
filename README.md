@@ -46,13 +46,6 @@ I want to be a great back-end developer <br>
 
 <h3 align="center">👓 GitHub Stats 👓 </h3>
 
-
-<p align="left">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sujinhann&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sujinhann&layout=compact&langs_count=8&theme=algolia"/>
-</p>
-
-
 <div align="center">
   
 ![sujinHann's github stats](https://github-readme-stats.vercel.app/api?username=sujinHann&show_icons=true)
